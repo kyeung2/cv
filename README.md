@@ -12,8 +12,8 @@ Available formats:
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/kyeyeung) <!-- Update with your actual LinkedIn URL -->
-- [GitHub Profile](https://github.com/kyeyeung) <!-- Update with your actual GitHub username -->
+- [LinkedIn](https://www.linkedin.com/in/kye-yeung/)
+- [GitHub](https://github.com/kyeung2)
 
 ## About This Repository
 
