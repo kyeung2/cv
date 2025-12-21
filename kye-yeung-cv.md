@@ -1,8 +1,5 @@
 # Kye Yeung
 
-**Email:** yeung.kye@pm.me  
-**GitHub:** [github.com/kyeung2](https://github.com/kyeung2)
-
 ---
 
 *"If you can't explain a concept to a young child, you don't understand it yourself."*
