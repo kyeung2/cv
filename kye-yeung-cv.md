@@ -58,13 +58,13 @@ Experienced Software Engineer with a strong background in designing and implemen
 
 - **Languages:** Java, Kotlin, TypeScript, JavaScript
 - **Frameworks:** Spring Boot, Spring Framework
-- **Messaging:** Kafka, JMS
-- **Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB, Redis
-- **Cloud & Infrastructure:** AWS (Lambda, S3, DynamoDB), Kubernetes, Docker
-- **API Technologies:** REST, GraphQL, SWIFT messaging protocols
-- **Tools:** Hystrix, Feign, Liquibase, Protobuf
+- **Messaging:** Kafka, JMS, 
+- **Databases:** PostgreSQL, CockroachDB, Redis
+- **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker
+- **API Technologies:** REST, GraphQL, gRPC, SWIFT messaging protocols
 
 ## Interests
 
-- **Climbing:** Enthusiastic climber who values the sense of achievement and strong community bonds it brings. I enjoy taking climbing trips with friends whenever the opportunity arises, embracing the relaxed atmosphere and camaraderie it fosters.
-- **Cultural Experiences:** I love learning new things such as Tango and have a keen interest in languages, particularly Spanish and Mandarin. Recently, I fulfilled a childhood dream of training Muay Thai in Northern Thailand. Engaging with different cultures through language, martial arts, and dance enriches my perspective and fuels my drive to grow.
+- **Bouldering:** Enthusiastic climber who values both the sense of achievement and the strong community bonds the sport fosters. I regularly take climbing trips, embracing the camaraderie and shared challenges.
+- **Argentinian Tango:** A dance that cultivates connection, improvisation, and musicality. I appreciate how it develops deep partnership and encourages creative expression.
+- **Languages:** Passionate about learning languages, particularly Spanish. Engaging with different cultures through language enriches my perspective of the world.

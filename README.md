@@ -9,8 +9,9 @@ Work in Progress GitHub Repo for my CV
 - [Markdown](kye-yeung-cv.md)
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/kye-yeung/)
-- [GitHub](https://github.com/kyeung2)
+- [yeung.kye@pm.me](yeung.kye@pm.me)
+- [linkedin.com/in/kye-yeung](https://www.linkedin.com/in/kye-yeung/)
+- [github.com/kyeung2](https://github.com/kyeung2)
 
 ## Generate downloads
 
