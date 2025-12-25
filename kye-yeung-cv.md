@@ -3,7 +3,11 @@
 ---
 *"If you can't explain a concept to a young child, you don't understand it yourself."*
 
-Experienced hands-on Engineer with a strong background in designing and delivering scalable backend systems. Guided by this principle, I strive to communicate with empathy, whether through my code or in collaboration with colleagues. Skilled in leading complex projects from inception to market, including API development and applying domain-driven design principles. Passionate about code stewardship, focusing on quality, maintainability, and ensuring the longevity of the codebase. Committed to fostering a positive working environment, mentoring, learning, and driving best practices. Dedicated to aligning technical solutions with business goals.
+Experienced hands-on engineer with a strong background in designing and delivering scalable backend systems.
+I strive to communicate with empathy, whether through my code or in collaboration with colleagues. 
+Passionate about code stewardship, focusing on quality, maintainability, and ensuring the longevity of the codebase.
+Committed to fostering a positive working environment, mentoring, learning, and driving best practices. 
+Dedicated to aligning technical solutions with business goals.
 
 ## Professional Experience
 
