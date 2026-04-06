@@ -4,6 +4,9 @@ Work in Progress GitHub Repo for my CV
 
 ## Downloads
 - [PDF](rendercv_output/Kye_Yeung_CV.pdf)
+- [PNG](rendercv_output/Kye_Yeung_CV_1.png)
+- [MD](rendercv_output/Kye_Yeung_CV.md)
+- [TYP](rendercv_output/Kye_Yeung_CV.typ)
 - [HTML](rendercv_output/Kye_Yeung_CV.html)
 
 ## Links
