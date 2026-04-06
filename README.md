@@ -3,10 +3,8 @@
 Work in Progress GitHub Repo for my CV
 
 ## Download CV
-- [PDF](downloads/kye-yeung-cv.pdf) 
-- [Word](downloads/kye-yeung-cv.docx)
+- [PDF](downloads/kye-yeung-cv.pdf)
 - [HTML](downloads/kye-yeung-cv.html)
-- [Markdown](kye-yeung-cv.md)
 
 ## Links
 - [yeung.kye@pm.me](yeung.kye@pm.me)
@@ -18,8 +16,7 @@ Work in Progress GitHub Repo for my CV
 ### Tools
 ```bash
 brew install just
-brew install pandoc
-brew install --cask basictex
+pip install rendercv
 ```
 
 ### Generate
