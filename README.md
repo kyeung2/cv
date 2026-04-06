@@ -1,28 +1,23 @@
-# Kye Yeung - CV
+# Kye Yeung - CV as Code
 
-Work in Progress GitHub Repo for my CV
+Work in Progress with [CV as Code](https://docs.rendercv.com/) repository.
 
-## Downloads
+Contact: [yeung.kye@pm.me](mailto:yeung.kye@pm.me) | [linkedin.com/in/kye-yeung](https://www.linkedin.com/in/kye-yeung/)
+
+## Outputs
 - [PDF](rendercv_output/Kye_Yeung_CV.pdf)
 - [PNG](rendercv_output/Kye_Yeung_CV_1.png)
 - [MD](rendercv_output/Kye_Yeung_CV.md)
 - [TYP](rendercv_output/Kye_Yeung_CV.typ)
 - [HTML](rendercv_output/Kye_Yeung_CV.html)
 
-## Links
-- [yeung.kye@pm.me](yeung.kye@pm.me)
-- [linkedin.com/in/kye-yeung](https://www.linkedin.com/in/kye-yeung/)
-- [github.com/kyeung2](https://github.com/kyeung2)
-
-## Generate
-
-### Tools
+## Tools
 ```bash
 brew install just
 pip install rendercv
 ```
 
-### Generate
+## Generate
 ```bash
 just generate
 ```
